@@ -8,7 +8,7 @@ const answersElement = document.querySelector('#answers')
 const nextQuestionElement = document.querySelector('#nextQuestion')
 
 // IIFE (so we can use async/await)
-(async () => {
+;(async () => {
 
 	// todo: create your "getNextQuestion" function
 
